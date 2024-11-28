@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rohit Balapure</h1>
-<h3 align="center">A passionate Full Stack Software Developer from India.</h3>
+<h3 align="center">A passionate Software Developer from India.</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitsbalapure&label=Profile%20views&color=0e75b6&style=flat" alt="rohitsbalapure" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Java Development.**
+- 🌱 I’m currently learning **AWS**
 
 - 📫 How to reach me **rohitbalapure@gmail.com**
 
